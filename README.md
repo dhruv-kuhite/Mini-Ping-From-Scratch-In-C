@@ -13,9 +13,9 @@ A lightweight, low-level network diagnostic tool built from scratch in C using *
 * **Configurable CLI:** Supports command-line arguments for custom target IPs and ping counts.
 
 
-## 📺 Video Walkthrough & Rebuilding Session
+## 📺 Video Walkthrough & Rebuilding Session(Only Part 1 now + Other videos comming soon)
 
-Watch the complete, unedited live-coding session where this custom raw socket ping utility is rebuilt from scratch in pure C:
+Watch the complete, unedited live-coding session where this custom raw socket ping utility is rebuilt from scratch in pure C (part 1):
 
 [![Watch the Rebuild Session on YouTube](https://img.youtube.com/vi/3JrdKYex6TQ/0.jpg)](https://www.youtube.com/watch?v=3JrdKYex6TQ)
 
