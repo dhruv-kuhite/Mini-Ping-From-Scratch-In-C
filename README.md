@@ -12,6 +12,14 @@ A lightweight, low-level network diagnostic tool built from scratch in C using *
 * **Robust Error Handling:** Manages custom timeouts (`SO_RCVTIMEO`) and handles unreachable hosts gracefully.
 * **Configurable CLI:** Supports command-line arguments for custom target IPs and ping counts.
 
+
+## 📺 Video Walkthrough (Part 1)
+
+Watch the complete, unedited live-coding session where Part 1 of the custom ping utility is built from scratch:
+
+[![Watch Part 1 on YouTube](https://www.youtube.com/watch?v=3JrdKYex6TQ&t=21s)
+
+
 ---
 
 ## 🛠️ Tech Stack & Concepts
