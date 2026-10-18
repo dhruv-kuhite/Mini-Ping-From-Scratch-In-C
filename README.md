@@ -26,7 +26,7 @@ Watch the complete, unedited live-coding session where this custom raw socket pi
 
 * **Language:** Pure C (C99)
 * **API:** Winsock2 (`ws2_32.lib`)
-* **Core Concepts:** Raw Sockets, Network Byte Order (`htons`/`ntohs`), Struct Padding, Memory Alignment, Performance Timers.
+* **Core Concepts:** Raw Sockets,Manual ICMP Header Construction, Network Byte Order (`htons`/`ntohs`), Memory Alignment, Performance Timers, RFC 1071 Checksum Algorithm.
 
 ---
 
