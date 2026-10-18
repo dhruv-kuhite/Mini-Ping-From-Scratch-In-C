@@ -13,11 +13,11 @@ A lightweight, low-level network diagnostic tool built from scratch in C using *
 * **Configurable CLI:** Supports command-line arguments for custom target IPs and ping counts.
 
 
-## 📺 Video Walkthrough (Part 1)
+## 📺 Video Walkthrough & Rebuilding Session
 
-Watch the complete, unedited live-coding session where Part 1 of the custom ping utility is built from scratch:
+Watch the complete, unedited live-coding session where this custom raw socket ping utility is rebuilt from scratch in pure C:
 
-[![Watch Part 1 on YouTube](https://www.youtube.com/watch?v=3JrdKYex6TQ&t=21s)
+[![Watch the Rebuild Session on YouTube](https://img.youtube.com/vi/3JrdKYex6TQ/0.jpg)](https://www.youtube.com/watch?v=3JrdKYex6TQ)
 
 
 ---
